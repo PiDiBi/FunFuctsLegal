@@ -54,4 +54,4 @@ We may update these terms from time to time. Changes will be reflected by updati
 
 For questions about these terms, contact:
 
-**Email:** factdrop.content@gmail.com
+**Email:** pidibi at outlook.com
