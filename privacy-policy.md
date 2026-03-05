@@ -57,4 +57,4 @@ We may update this policy from time to time. Changes will be reflected by updati
 
 For questions or concerns about this privacy policy, contact:
 
-**Email:** factdrop.content@gmail.com
+**Email:** pidibi at outlook.com
