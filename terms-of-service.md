@@ -1,10 +1,10 @@
 # Terms of Service
 
-**Last updated:** March 5, 2026
+**Last updated:** March 6, 2026
 
 ## 1. Service Description
 
-FactDrop ("the Service") is an automated content creation and publishing platform that generates short-form educational videos and publishes them to social media platforms including TikTok, YouTube, and Telegram.
+Fan Facts Drop ("the Service") is an automated content creation and publishing platform that generates short-form educational videos and publishes them to social media platforms including TikTok, YouTube, and Telegram.
 
 ## 2. Acceptance of Terms
 
