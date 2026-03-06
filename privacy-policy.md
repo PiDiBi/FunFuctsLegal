@@ -1,10 +1,10 @@
 # Privacy Policy
 
-**Last updated:** March 5, 2026
+**Last updated:** March 6, 2026
 
 ## Overview
 
-FactDrop ("we", "our", "the Service") is an automated content creation and publishing platform. This policy describes how we handle data in connection with our use of third-party APIs, including the TikTok API.
+Fan Facts Drop ("we", "our", "the Service") is an automated content creation and publishing platform. This policy describes how we handle data in connection with our use of third-party APIs, including the TikTok API.
 
 ## Data We Collect
 
